@@ -1,0 +1,5 @@
+# Ignore .lnk shortcuts
+*.lnk
+
+# Ignore Optisystem samples
+Matlab_cosimulation/
