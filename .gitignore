@@ -1,5 +1,8 @@
 # Ignore .lnk shortcuts
 *.lnk
 
+# Ignore Matlab autosave files
+*.asv
+
 # Ignore Optisystem samples
 Matlab_cosimulation/
